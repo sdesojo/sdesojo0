@@ -1,7 +1,7 @@
 ---
 title: Research
 prev: "/"
-next: contact
+next: cv
 ---
 
 # Modelling Human Mobility

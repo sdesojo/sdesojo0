@@ -1,6 +1,6 @@
 ---
 title: Contact
-prev: CV
+prev: cv
 ---
 
 You can write to me on:

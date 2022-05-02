@@ -1,7 +1,7 @@
 ---
 title: Hola! Sóc la Silvia
 layout: single
-next: reasearch
+next: research
 ---
 
 <!-- Hello there, thanks for passing by.  -->
@@ -9,7 +9,7 @@ next: reasearch
 
 <img style="float: left; margin: 20px 20px 0px 0px;" src="/images/sdesojo2.JPG" width="150"/>
 
-Hey! That's me, **Silvia de Sojo**   
+That's me, **Silvia de Sojo**.   
 I am a PhD student at the [Technical  University of Denmark](https://www.dtu.dk/)  
 Originally from *Barcelona*  
 Living in *Copenhaguen* 
