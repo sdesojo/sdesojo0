@@ -1,11 +1,11 @@
 baseURL = "https://sdesojo.github.io/sdesojo/"
-title = "sdesojo"
+title = "/sdesojo"
 description = "This is a project description"
 relativeURLs = true
 theme = "theme" 
 [params]
     authors = ["Silvia de Sojo Caso"]
-    notebook = "/explainer-notebook.html"
+    notebook = "https://findit.dtu.dk/en/catalog/6251698841bfc310d66878ff"
     data = "https://drive.google.com"
     github = "https://github.com/sdesojo"
     [[params.nav]]
