@@ -2,11 +2,11 @@
 
 __A website for a professional presentation__
 
-Website designed as a professional presentation. To be extended as a Portfolio.
-
-[**Link to Site**](https://sdesojo.github.io/sdesojo/)
+Website designed as a professional presentation: [**/sdesojo**](https://sdesojo.github.io/sdesojo/)
 
 This project creates a static website deployed on Github Pages. To test it locally it is necessary to install [Hugo](https://gohugo.io/getting-started/installing/). This allows it to develop it and display the changes in real-time.
+
+Pending: Extend site to include Professional Portfolio.
 
 ## Tech stuff
 
