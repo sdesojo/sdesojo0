@@ -14,7 +14,7 @@ I am a PhD student at the [Technical  University of Denmark](https://www.dtu.dk/
 Originally from Barcelona and currently living in Copenhaguen.  
 <!-- <br /><br /> -->
 
-My PhD focuses on the **Gender Gap in Human Mobility** and my goal is to quantify the gender differences in travel behavior across countries, age-groups, and socio-economic groups world-wide using high-resolution data; and to identify the factors driving the observed differences.  
+My PhD focuses on investigating ** The Gender Gap in Human Mobility** and my goal is to quantify the gender differences in travel behavior across countries, age-groups, and socio-economic groups world-wide using high-resolution data; and to identify the factors driving the observed differences.  
 
 My PhD supervisors are [Laura Alessandretti](https://scholar.google.com/citations?user=2265XuYAAAAJ&hl=en) and [Sune Lehmann](https://scholar.google.com/citations?user=wvkUbiUAAAAJ&hl=en&oi=ao).
 
