@@ -5,7 +5,8 @@ prev: cv
 
 You can write to me on:
 > Mail: [sdsc@dtu.dk](mailto:sdsc@dtu.dk)  
-Twitter: [@sdesojo](https://twitter.com/sdesojo)
+Twitter: [@sdesojo](https://twitter.com/sdesojo)  
+Mastodon: [@sdesojo](https://datasci.social/@sdesojo)
 
 Or visit me at:
 > DTU Compute - Cognitive Systems  
