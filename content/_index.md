@@ -22,10 +22,7 @@ Before my PhD, I studied a Master's in [Business Analytics](https://www.dtu.dk/e
 I am interested in Computational Social Science, Data Science and Complex Networks. My objective is to study human behavior combining analysis of large-scale datasets, analytical models and numerical simulations.
 -->
 
-[linkedin](https://www.linkedin.com/in/sdesojo/)
-
-[twitter](https://x.com/sdesojo)
-
-[mastodon](https://datasci.social/@sdesojo)
-
-[code](https://github.com/sdesojo)
+[linkedin](https://www.linkedin.com/in/sdesojo/) | 
+[twitter](https://x.com/sdesojo) | 
+[mastodon](https://datasci.social/@sdesojo) | 
+[code](https://github.com/sdesojo)  
