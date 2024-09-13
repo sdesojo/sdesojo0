@@ -4,12 +4,12 @@ prev: "/"
 next: cv
 ---
 
-# Modelling Human Mobility
+<!-- # Modelling Human Mobility
 
-<!-- ## PhD Project Objective
+ ## PhD Project Objective
 
 
-## Master Thesis -->
+## Master Thesis
 
 Recent studies have unveiled the gender gap in human mobility, with women day-to-day travel behaviour differing from that of men. However, the scientific understanding of the factors driving gender differences in travel patterns is limited due to the lack of suitable data. 
 
@@ -24,4 +24,4 @@ During the development of my master theiss we identifed that the gender gap in m
 gender gap in mobility with a single demographic feature.
 
 > [Understanding gender gaps in employment and mobility using large-scale behavioral data](https://findit.dtu.dk/en/catalog/6251698841bfc310d66878ff) 
-
+ -->
