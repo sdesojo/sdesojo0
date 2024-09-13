@@ -8,9 +8,9 @@ theme = "theme"
     notebook = "https://www.linkedin.com/in/silvia-de-sojo-caso-281655b8/"
     data = "https://findit.dtu.dk/en/catalog/6251698841bfc310d66878ff"
     github = "https://github.com/sdesojo"
-    [[params.nav]]
-        label = "Research"
-        link = "/research"
+    #[[params.nav]]
+     #   label = "Research"
+      #  link = "/research"
     [[params.nav]]
         label = "CV"
         link = "/cv"
