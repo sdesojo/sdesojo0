@@ -1,7 +1,7 @@
 ---
 title: CV
 prev: "/"
-next: contact
+next: "/"
 ---
 
  <!-- <p>Open in viewer at <a href="/pdf/202112_CV.pdf">CV</a>.</p> -->
