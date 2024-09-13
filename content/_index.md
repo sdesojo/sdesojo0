@@ -9,7 +9,7 @@ next: research
 
 <img style="float: left; margin: 20px 20px 0px 0px;" src="/images/sdesojo2.JPG" width="150"/>
 
-I am a PhD student at the Social Complexity Lab in the [Technical  University of Denmark](https://www.dtu.dk/), and a visiting researcher at [Senseable City Lab](https://senseable.mit.edu/)
+I am a PhD student at the Social Complexity Lab in the [Technical  University of Denmark](https://www.dtu.dk/), and a visiting researcher at [Senseable City Lab](https://senseable.mit.edu/).
 Originally from Barcelona, based in Copenhagen, and currently living in Boston.  
 <!-- <br /><br /> -->
 My research focuses on understanding behavioral inequalities across genders and diverse groups. 
