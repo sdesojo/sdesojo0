@@ -1,7 +1,7 @@
 ---
 title: Hola! Sóc la Silvia
 layout: single
-next: research
+next: cv
 ---
 
 <!-- Hello there, thanks for passing by.  -->
@@ -18,5 +18,10 @@ In my PhD, I study the **The Gender Gaps in Human Mobility**. My goal is to quan
 
 Before my PhD, I studied a Master's in [Business Analytics](https://www.dtu.dk/english/education/graduate/msc-programmes/Business-Analytics) and a Bachelor in [Industrial Engineering](https://www.upc.edu/en). I have experience in the industry sector having worked for [HP Inc](https://www.hp.com/us-en/home.html) and [United Nations Development Program](https://www.undp.org/).
 
-I am interested in Computational Social Science, Data Science and Complex Networks. My objective is to study human behavior combining analysis of large-scale datasets, analytical models and numerical simulations.->
+I am interested in Computational Social Science, Data Science and Complex Networks. My objective is to study human behavior combining analysis of large-scale datasets, analytical models and numerical simulations.
+-->
 
+[linkedin](https://www.linkedin.com/in/sdesojo/)
+[twitter](https://x.com/sdesojo)
+[mastodon](https://datasci.social/@sdesojo)
+[code](https://github.com/sdesojo)
