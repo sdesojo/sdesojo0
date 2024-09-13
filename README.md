@@ -4,7 +4,8 @@ Website designed as a professional presentation: [**/sdesojo**](https://sdesojo.
 
 This project creates a static website deployed on Github Pages. To test it locally it is necessary to install [Hugo](https://gohugo.io/getting-started/installing/). This allows it to develop it and display the changes in real-time.
 
-Pending: Extend site to include Professional Portfolio.
+<!-- Pending: Extend site to include Professional Portfolio.
+--> 
 
 ## Tech stuff
 
