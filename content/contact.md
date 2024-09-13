@@ -5,8 +5,7 @@ prev: cv
 ---
 
 You can write to me at:
-> [sdsc@dtu.dk](mailto:sdsc@dtu.dk)
->
+> [sdsc@dtu.dk](mailto:sdsc@dtu.dk) | 
 > [sdesojo@mit.edu](mailto:sdesojo@mit.edu)  
 
 <!--
