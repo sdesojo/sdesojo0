@@ -1,6 +1,6 @@
 ---
 title: CV
-prev: research
+prev: 
 next: contact
 ---
 
