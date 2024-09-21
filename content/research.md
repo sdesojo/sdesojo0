@@ -5,8 +5,8 @@ prev: "/"
 next: cv
 ---
 
-## Talks
- [2024. The Gender Gaps in Human Mobility](https://www.youtube.com/watch?v=eqTcj61zAok) @ [The Network Science Institute](https://www.networkscienceinstitute.org/) (Boston, USA)]
+# Talks
+ [2024. The Gender Gaps in Human Mobility](https://www.youtube.com/watch?v=eqTcj61zAok) @ [The Network Science Institute](https://www.networkscienceinstitute.org/) (Boston, USA)
 
 <!-- ## Upcoming Talks
 
