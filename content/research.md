@@ -1,10 +1,18 @@
-<!--
+
 ---
-title: Research
+title: Research and Talks
 prev: "/"
 next: cv
 ---
 
+## Talks
+> [2024. The Gender Gaps in Human Mobility @ The Network Science Institute (Boston, USA)](https://www.youtube.com/watch?v=eqTcj61zAok)
+
+<!-- ## Upcoming Talks
+
+
+
+<!--
  # Modelling Human Mobility
 
  ## PhD Project Objective
