@@ -1,7 +1,7 @@
 ---
 title: Hola! Sóc la Silvia
 layout: single
-next: cv
+next: research
 ---
 
 <!-- Hello there, thanks for passing by.  -->
