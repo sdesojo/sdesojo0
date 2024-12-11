@@ -9,8 +9,8 @@ theme = "theme"
     data = "https://findit.dtu.dk/en/catalog/6251698841bfc310d66878ff"
     github = "https://github.com/sdesojo"
     [[params.nav]]
-        label = "Research"
-        link = "/research"
+       label = "Research and Talks"
+       link = "/research"
     [[params.nav]]
         label = "CV"
         link = "/cv"
